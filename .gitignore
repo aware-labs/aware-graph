@@ -1,0 +1,8 @@
+node_modules
+.idea
+.vscode
+.DS_store
+package-lock.json
+.rancher-pipeline.yml
+deployment.yaml
+src/darkforest/plugins
