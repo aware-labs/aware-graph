@@ -34,6 +34,14 @@ if not, add your info in index.js and uncomment some test
 npm start
 ```
 
+### Talk
+
+go to your @TelegramBot, write
+ 
+```sh
+/df subscribe attacks YourID
+```
+
 #### run cron
 
 run it manually to check last 10 minutes arrivals if your planets are under attack
@@ -43,4 +51,16 @@ npm run cron
 ```
 
 TODO; run it periodically
+
+
+
+
+# Thanks to
+
+[thegraph-bot](https://github.com/kordy/thegraph) @kordy 
+
+[darkforest-graph-leaderboard](https://github.com/jacobrosenthal/darkforest-graph-leaderboard) @jacobrosenthal 
+
+
+
 
