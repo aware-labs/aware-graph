@@ -1,14 +1,20 @@
-WORK IN PROGRESS
+# WORK IN PROGRESS
 
 List your planets, compare if you have lost any, get planet info
+
 Check if your planets are under attack
+
 Telegram bot text to warn you (todo; cron)
 
-Available Telegram commands: 
+
+#### Available Telegram commands: 
 
 /df planet PlanetID - Check a planet
+
 /df planets YourID - Check your planets
+
 /df subscribe attacks YourID - Subscribe attacks
+
 
 # Install
 
